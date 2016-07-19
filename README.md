@@ -21,3 +21,10 @@ The following **optional** features are implemented:
 - [] All images fade in as they are loading.
 - [] Customize the UI. 
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/kingdaa/Flicks/raw/master/flicks_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
